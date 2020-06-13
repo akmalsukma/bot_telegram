@@ -1,0 +1,2 @@
+TOKEN='1227231834:AAH9DSVr6Bm8rT7fjtP5T30jfp21o3Hl_vc'
+HELLO='Hallo nama Saya Coab'
